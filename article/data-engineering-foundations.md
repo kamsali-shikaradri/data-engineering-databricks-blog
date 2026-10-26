@@ -96,6 +96,8 @@ A typical workflow is:
 
 ### Data Pipeline Diagram
 
+<img width="939" height="524" alt="Screenshot 2026-10-26 181600" src="https://github.com/user-attachments/assets/052abaab-8f40-4370-abad-581c6105f502" />
+
 ![From Raw Data to Business Insight](../images/data-engineering-pipeline.png)
 
 *Figure 1: From Raw Data to Business Insight — a conceptual illustration of how data moves through ingestion, processing, storage, and analytics.*
