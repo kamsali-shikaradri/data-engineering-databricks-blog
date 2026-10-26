@@ -89,6 +89,7 @@ The workflow may involve the following activities:
 ## 🖼️ Data Pipeline Diagram
 
 The following diagram illustrates the journey from raw data to business insights.
+<img width="939" height="524" alt="Screenshot 2026-10-26 181600" src="https://github.com/user-attachments/assets/85354197-ae50-48f4-a6ba-6401539467f1" />
 
 ![From Raw Data to Business Insight](images/data-engineering-pipeline.png)
 
